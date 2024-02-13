@@ -1,0 +1,26 @@
+.posicion{
+    float: left;
+    width: auto;
+}
+
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+.galery{
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 33vw;
+
+}
+div.galery img{
+    width: 100%;
+    height: auto;
+}
+.descriptions{
+    padding: 15px;
+    text-align: center;
+
+}
